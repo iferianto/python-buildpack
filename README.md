@@ -15,7 +15,7 @@ Additional information can be found at [CloudFoundry.org](http://docs.cloudfound
 This buildpack will be used if there is a `requirements.txt` or `setup.py` file in the root directory of your project.
 
 ```bash
-cf push my_app -b https://github.com/cloudfoundry/buildpack-python.git
+cf push my_app -b https://github.com/iferianto/python-buildpack.git
 ```
 
 ## Disconnected environments
